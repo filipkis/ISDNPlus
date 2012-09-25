@@ -13,10 +13,10 @@ This is one of my first applications that had a real purpose. It worked on the n
 
 # Screenshots
 
-![The main window](main.jpg)
+![The main window](https://github.com/filipkis/ISDNPlus/main.jpg)
 
 Here on the left you can see the call log with number, name (if in your address book) and time of call. On the right you have the address book with display name, first name and last name. 
 
-![The call popup](baloon.jpg)
+![The call popup](https://github.com/filipkis/ISDNPlus/baloon.jpg)
 
 This is an example of the popup. At the moment it's not showing the caller ID because the number was hidden.
