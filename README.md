@@ -1,6 +1,6 @@
 ## ISDNPlus
 
-This is one of my first applications that had a real purpose. It worked on the now already old but back in 2003 quite popular technology of ISDN (that was a step up from dial-up modems). If you had such a line at home and compute equipped with an ISDN card you could have used this software to arrange your address book and see who is calling you on your computer screen. The user base was huge (2 users) and included both home users (me) and enterprise (my fathers company). It was in service for several years. Even when ISDN went out of fashion my father used it till 2009 for his address book, until I wrote a short script to transfer my "proprietary" data base format to CSV. 
+This is one of my first applications that had a real purpose. It worked on the, now already old but back in 2003 quite popular, technology of ISDN (that was a step up from dial-up modems). If you had such a line at home and computer equipped with an ISDN card you could have used this software to arrange your address book and see who is calling you on your computer screen. The user base was huge (2 users) and included both home users (me) and enterprise (my fathers company). It was in service for several years. Even when ISDN went out of fashion my father used it till 2009 for his address book, until I wrote a short script to transfer my "proprietary" data base format to CSV. 
 
 # Features
 
